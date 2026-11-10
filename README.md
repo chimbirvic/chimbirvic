@@ -10,7 +10,7 @@ I am a data analyst working with SQL, Python, and BI tools to explore data, test
 
 - Опыт работы с реальными и учебными проектами в области аналитики данных
 - Python (Pandas, Matplotlib), SQL, Google Sheets / Excel
-- Создание интерактивных дашбордов и отчётов в DataLens и других BI-системах
+- Создание интерактивных дашбордов и отчётов в Power BI, DataLens и других BI-системах
 - Разработка витрин данных и автоматизация процессов анализа
 
 Experience with real and educational data analytics projects.

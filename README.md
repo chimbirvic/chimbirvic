@@ -1,4 +1,3 @@
-
 # Виктор Чимбир
 
 **Data Analyst | SQL · Python · BI**
@@ -25,6 +24,12 @@ Developing data marts and automating analysis workflows.
 Полный цикл A/B-теста: проверка данных и рандомизации, расчёт выборки, ITT-анализ на уровне мерчендайзера и оценка защитных метрик. Эффект +0,54 п.п. статистически значим, но ниже бизнес-порога +1 п.п.; рекомендация — не масштабировать без дополнительного обоснования экономики.
 
 End-to-end A/B test analysis, including data quality, randomization checks, sample size, user-level ITT, and guardrail metrics. The estimated effect was +0.54 pp, statistically significant but below the +1 pp business threshold.
+
+### [OSA & Field Execution Analytics](https://github.com/chimbirvic/Practice_projects/tree/main/BI-tools%26SQL_projects/osa-analytics-portfolio)
+
+Портфолио-аналитика Power BI-отчёта: OSA, покрытие, визиты, доля полки и дополнительные метрики полевого исполнения. В репозитории описаны модель данных, DAX и структура отчёта; показатели относятся к историческому снимку за август 2026 года.
+
+Power BI report portfolio covering on-shelf availability (OSA), coverage, visits, shelf share, and field execution metrics. The repository documents the data model, DAX, and report structure; the figures are a historical snapshot for August 2026.
 
 [Все проекты / All projects — Practice_projects](https://github.com/chimbirvic/Practice_projects)
 
